@@ -1148,6 +1148,16 @@
             "icon": "sicon-image1",
             "path": "home.valer-premium-hero",
             "fields": []
+        },
+        {
+            "key": "837d1a96-0a6d-47d8-86c4-ddf8be8c8b38",
+            "title": {
+                "en": "VALER Fabric Categories",
+                "ar": "تصنيفات الأقمشة الرجالية"
+            },
+            "icon": "sicon-store",
+            "path": "home.valer-fabric-categories",
+            "fields": []
         }
     ],
     "support_url": null,
