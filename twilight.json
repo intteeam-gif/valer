@@ -1158,6 +1158,16 @@
             "icon": "sicon-store",
             "path": "home.valer-fabric-categories",
             "fields": []
+        },
+        {
+            "key": "40e7ab7d-b053-421c-96e4-a13e04a029e0",
+            "title": {
+                "en": "VALER Featured Fabrics",
+                "ar": "عرض الأقمشة المميزة"
+            },
+            "icon": "sicon-store",
+            "path": "home.valer-featured-fabrics",
+            "fields": []
         }
     ],
     "support_url": null,
