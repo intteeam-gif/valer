@@ -1138,6 +1138,16 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "e646333b-e18b-46a9-860a-89312403220d",
+            "title": {
+                "en": "VALER Premium Hero",
+                "ar": "بانر رئيسي فاخر للواجهة"
+            },
+            "icon": "sicon-image1",
+            "path": "home.valer-premium-hero",
+            "fields": []
         }
     ],
     "support_url": null,
