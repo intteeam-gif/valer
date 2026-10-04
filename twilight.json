@@ -1168,6 +1168,16 @@
             "icon": "sicon-store",
             "path": "home.valer-featured-fabrics",
             "fields": []
+        },
+        {
+            "key": "6ef90bde-5185-4411-8ca1-838e932f5959",
+            "title": {
+                "en": "VALER Seasonal Fabrics",
+                "ar": "أقمشة الصيف والشتاء والمواسم"
+            },
+            "icon": "sicon-redo",
+            "path": "home.valer-seasonal-fabrics",
+            "fields": []
         }
     ],
     "support_url": null,
