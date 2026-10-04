@@ -1178,6 +1178,16 @@
             "icon": "sicon-redo",
             "path": "home.valer-seasonal-fabrics",
             "fields": []
+        },
+        {
+            "key": "5f215eec-fdfc-4a7d-9d1a-4c38806f6ec4",
+            "title": {
+                "en": "VALER Luxury Banner",
+                "ar": "بانر تسويقي فاخر للعروض والمجموعات"
+            },
+            "icon": "sicon-cart",
+            "path": "home.valer-luxury-banner",
+            "fields": []
         }
     ],
     "support_url": null,
