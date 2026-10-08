@@ -1193,9 +1193,9 @@
             "fields": []
         }
     ],
-    "support_url": null,
+    "support_url": "https://valer.sa/support",
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     }
 }
